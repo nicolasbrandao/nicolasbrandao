@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, Redux**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nicolasbrandao&show_icons=true&locale=en&layout=compact" alt="nicolasbrandao" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=nicolasbrandao&show_icons=true&locale=en" alt="nicolasbrandao" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nicolasbrandao&" alt="nicolasbrandao" /></p>
