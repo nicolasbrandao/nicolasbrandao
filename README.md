@@ -16,7 +16,7 @@
 
 ![React](https://img.shields.io/badge/-React-05122A?style=flat&logo=react)&nbsp;
 ![Redux](https://img.shields.io/badge/-Redux-05122A?style=flat&logo=redux)&nbsp;
-![Styled-components](https://img.shields.io/badge/-Styled-components-05122A?style=flat&logo=styled-components)&nbsp;
+![Styled-components](https://img.shields.io/badge/-StyledComponents-05122A?style=flat&logo=styled-components)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
@@ -28,7 +28,6 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=nicolasbrandao&show_icons=true&theme=vision-friendly-dark" alt="nicolasbrandao's stats"/>
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbrandao&layout=compact&theme=vision-friendly-dark" alt="nicolasbrandao's most languages"/>
 </p>
 
