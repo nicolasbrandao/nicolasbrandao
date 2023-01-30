@@ -1,23 +1,12 @@
 <img align="right" height="590em" src="https://user-images.githubusercontent.com/107960652/215524875-7762de47-949b-48b7-bde5-1b9ddc2e95c5.png"/>
-<h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nícolas Brandão</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasbrandao&color=green" alt="Profile views" /> </p>
+<h1 align="left">Olá, meu nome é Nícolas Brandão</h1>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=nicolasbrandao&color=green" alt="Profile views" /></p>
 
-<!--
-- 🔥 Sênior Web Developer & Instructor focused on helping people start programming 
+👨‍💻 Desenvolvedor front-end
 
-- 🔭 I’m currently working at [Rocketseat](https://github.com/Rocketseat)
+⚛️ Trabalhando principalmente com **React**, **Redux** & **TypeScript**
 
-- ▶️ I (not) regularly post videos on [youtube.com/maykbrito](https://youtube.com/maykbrito)
-
-- 💬 Ask me about **JavaScript, HTML, CSS, SQL, Node.JS**
-
-- ⚡ Fun fact **Oneye 😜**
-
-- 👨‍💻 More at [maykbrito.dev](https://maykbrito.dev)](url)
-
--->
-
-<!--
+🚀 Para entender minha jornada, acesse meu [Notion](https://youtube.com/maykbrito](https://frill-word-deb.notion.site/05e98f1767054c43a2cea6118e331bcb?v=a47a1074574940c7a0a7091ccdd706de)
 
 <br><br>
 
@@ -40,49 +29,19 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=maykbrito&show_icons=true&theme=vision-friendly-dark" alt="maykbrito's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maykbrito&layout=compact&theme=vision-friendly-dark" alt="maykbrito's most languages"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api?username=nicolasbrandao&show_icons=true&theme=vision-friendly-dark" alt="nicolasbrandao's stats"/>
+<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbrandao&layout=compact&theme=vision-friendly-dark" alt="nicolasbrandao's most languages"/>
 </p>
--->
 
 <br><br>
 
-## Contact
+## Contato
 
-<p align="left" style="background:yellow">
-<a href="https://codepen.io/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=codepen" alt="codepen"/>
-</a>
-<a href="https://twitter.com/maykbrito" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=twitter" alt="twitter"/>  
-</a>
-<a href="https://linkedin.com/in/maykbrito" target="_blank">
+<p align="left" style="background:green">
+<a href="https://linkedin.com/in/nicolasbrandao" target="_blank">
   <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
-<a href="https://instagram.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=instagram" alt="instagram"/>
-</a>
-<a href="https://youtube.com/maykbrito" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=youtube" alt="youtube"/>
+<a href="mailto: nicolas.brandaor@gmail.com" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=gmail" alt="E-mail"/>
 </a>
 </p>
-
-<!--
-
-<img width="490em" src="https://github-readme-twitter-gazf.vercel.app/api?id=maykbrito&layout=wide&show_reply=off&show_retweet=off" />
-
-
-**maykbrito/maykbrito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
