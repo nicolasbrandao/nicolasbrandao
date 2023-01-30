@@ -8,6 +8,8 @@
 
 🚀 Para entender minha jornada, acesse meu [Notion](https://frill-word-deb.notion.site/05e98f1767054c43a2cea6118e331bcb?v=a47a1074574940c7a0a7091ccdd706de)
 
+🚧 Acesse meu [portfólio](https://nicolasbrandao.github.io/portfolio/)
+
 <br><br>
 
 ## 🛠 &nbsp;Tech Stack
@@ -39,9 +41,9 @@
 
 <p align="left" style="background:green">
 <a href="https://linkedin.com/in/nicolasbrandao" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  <img align="center" src="https://img.shields.io/badge/-nicolasbrandao-05122A?style=flat&logo=linkedin" alt="linkedin"/>
 </a>
 <a href="mailto: nicolas.brandaor@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-maykbrito-05122A?style=flat&logo=gmail" alt="E-mail"/>
+ <img align="center" src="https://img.shields.io/badge/-nicolasbrandao-05122A?style=flat&logo=gmail" alt="E-mail"/>
 </a>
 </p>
