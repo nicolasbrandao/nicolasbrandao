@@ -40,10 +40,10 @@
 ## Contato
 
 <p align="left" style="background:green">
-<a href="https://linkedin.com/in/nicolasbrandao" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-nicolasbrandao-05122A?style=flat&logo=linkedin" alt="linkedin"/>
-</a>
-<a href="mailto: nicolas.brandaor@gmail.com" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-nicolasbrandao-05122A?style=flat&logo=gmail" alt="E-mail"/>
-</a>
+  <a href="https://linkedin.com/in/nicolasbrandao" target="_blank">
+    <img align="center" src="https://img.shields.io/badge/-nicolasbrandao-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+  </a>
+  <a href="mailto: nicolas.brandaor@gmail.com" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-nicolas.brandaor@gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
+  </a>
 </p>
