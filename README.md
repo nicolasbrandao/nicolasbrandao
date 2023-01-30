@@ -8,7 +8,7 @@
 
 🚀 Para entender minha jornada, acesse meu [Notion](https://frill-word-deb.notion.site/05e98f1767054c43a2cea6118e331bcb?v=a47a1074574940c7a0a7091ccdd706de)
 
-🚧 Acesse meu [portfólio](https://nicolasbrandao.github.io/portfolio/)
+🚧 Visite meu [portfólio](https://nicolasbrandao.github.io/portfolio/)
 
 <br><br>
 
@@ -28,7 +28,7 @@
 ## ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbrandao&layout=compact&theme=dark" alt="nicolasbrandao's most languages"/>
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbrandao&layout=compact&theme=dark" alt="nicolasbrandao's most languages"/>
 </p>
 
 ## Contato
@@ -40,4 +40,7 @@
   <a href="mailto: nicolas.brandaor@gmail.com" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-nicolas.brandaor@gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
   </a>
+  <img align="center" src="https://img.shields.io/badge/-(37)_9_9112_4140-05122A?style=flat&logo=whatsapp" alt="mobile phone number"/>
+  
+
 </p>
