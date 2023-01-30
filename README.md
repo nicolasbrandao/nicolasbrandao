@@ -21,13 +21,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbrandao&layout=compact&theme=dark" alt="nicolasbrandao's most languages"/>
-</p>
-
-## Contato
+## 📧 Contato
 
 <p align="left" style="background:green">
   <a href="https://linkedin.com/in/nicolasbrandao" target="_blank">
@@ -37,6 +31,12 @@
    <img align="center" src="https://img.shields.io/badge/-nicolas.brandaor@gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
   </a>
   <img align="center" src="https://img.shields.io/badge/-(37)_9_9112_4140-05122A?style=flat&logo=whatsapp" alt="mobile phone number"/>
-  
+</p>
 
+<br><br><br><br>
+
+## ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbrandao&layout=compact&theme=dark" alt="nicolasbrandao's most languages"/>
 </p>
