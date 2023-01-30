@@ -31,8 +31,6 @@
 <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbrandao&layout=compact&theme=vision-friendly-dark" alt="nicolasbrandao's most languages"/>
 </p>
 
-<br><br>
-
 ## Contato
 
 <p align="left" style="background:green">
