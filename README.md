@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://user-images.githubusercontent.com/107960652/215524071-e2a4e38e-109b-4cfd-9c7b-71972f99c471.png"/>
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/107960652/215524875-7762de47-949b-48b7-bde5-1b9ddc2e95c5.png"/>
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Nícolas Brandão</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nicolasbrandao&color=green" alt="Profile views" /> </p>
 
