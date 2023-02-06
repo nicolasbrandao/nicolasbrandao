@@ -32,11 +32,3 @@
   </a>
   <img align="center" src="https://img.shields.io/badge/-(37)_9_9112_4140-05122A?style=flat&logo=whatsapp" alt="mobile phone number"/>
 </p>
-
-<br><br><br><br>
-
-## ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-  <img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nicolasbrandao&layout=compact&theme=dark" alt="nicolasbrandao's most languages"/>
-</p>
