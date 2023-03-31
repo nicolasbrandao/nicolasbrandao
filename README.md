@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://user-images.githubusercontent.com/107960652/215524875-7762de47-949b-48b7-bde5-1b9ddc2e95c5.png"/>
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/107960652/215524875-7762de47-949b-48b7-bde5-1b9ddc2e95c5.png" alt="Nícolas Brandão - Front-end developer"/>
 <h1 align="left">Hi, my name is Nícolas Brandão</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nicolasbrandao&color=green" alt="Profile views" /></p>
 
