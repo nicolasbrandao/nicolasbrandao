@@ -34,5 +34,7 @@
   <a href="mailto: nicolas.brandaor@gmail.com" target="_blank">
    <img align="center" src="https://img.shields.io/badge/-nicolas.brandaor@gmail.com-05122A?style=flat&logo=gmail" alt="email"/>
   </a>
-  <img align="center" src="https://img.shields.io/badge/-(37)_9_9112_4140-05122A?style=flat&logo=whatsapp" alt="mobile phone number"/>
+  <a href="https://wa.me/5537991124140" target="_blank">
+   <img align="center" src="https://img.shields.io/badge/-(37)_9_9112_4140-05122A?style=flat&logo=whatsapp" alt="mobile phone number"/>
+  </a>
 </p>
