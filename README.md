@@ -4,7 +4,7 @@
 
 👨‍💻 Front-end developer
 
-⚛️ Working primarily with **React**, **Redux** & **TypeScript**
+⚛️ Working primarily with **React**, **Redux**, **Next** & **TypeScript**
 
 🚧 Check out my [portfolio](https://nicolasbrandao.github.io/portfolio/)
 
