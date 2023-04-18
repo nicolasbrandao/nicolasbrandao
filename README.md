@@ -2,7 +2,7 @@
 <h1 align="left">Hi, my name is Nícolas Brandão</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nicolasbrandao&color=green" alt="Profile views" /></p>
 
-👨‍💻 Front-end developer
+👨‍💻 Software Engineer
 
 ⚛️ Working primarily with **React**, **Redux**, **Next** & **TypeScript**
 
