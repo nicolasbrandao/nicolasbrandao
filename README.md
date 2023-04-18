@@ -8,7 +8,7 @@
 
 🚧 Check out my [portfolio](https://nicolasbrandao.vercel.app/)
 
-🚀 Also, consider vistiting my [Notion](https://frill-word-deb.notion.site/05e98f1767054c43a2cea6118e331bcb?v=a47a1074574940c7a0a7091ccdd706de) to understand my journey as a FE Developer
+🚀 Also, consider vistiting my [Notion](https://frill-word-deb.notion.site/05e98f1767054c43a2cea6118e331bcb?v=a47a1074574940c7a0a7091ccdd706de) to understand my journey as a Software Engineer
 
 
 ## 🛠 &nbsp;Tech Stacks
