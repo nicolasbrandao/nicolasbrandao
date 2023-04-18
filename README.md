@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://user-images.githubusercontent.com/107960652/232862426-d87ffec1-7994-422e-8894-bb79b28e76d0.png" alt="Nícolas Brandão - Front-end developer"/>
+<img align="right" height="590em" src="https://user-images.githubusercontent.com/107960652/232866318-07441e08-1f67-4b5c-81d4-785b8c9f58d5.png" alt="Nícolas Brandão - Front-end developer"/>
 <h1 align="left">Hi, my name is Nícolas Brandão</h1>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=nicolasbrandao&color=green" alt="Profile views" /></p>
 
@@ -9,7 +9,6 @@
 🚧 Check out my [portfolio](https://nicolasbrandao.vercel.app/)
 
 🚀 Also, consider vistiting my [Notion](https://frill-word-deb.notion.site/05e98f1767054c43a2cea6118e331bcb?v=a47a1074574940c7a0a7091ccdd706de) to understand my journey as a FE Developer
-
 
 
 ## 🛠 &nbsp;Tech Stacks
