@@ -1,4 +1,3 @@
-<img align="right" height="590em" src="https://user-images.githubusercontent.com/107960652/232866318-07441e08-1f67-4b5c-81d4-785b8c9f58d5.png" alt="Nícolas Brandão - Front-end developer"/>
 <h1 align="left">Hi, my name is Nícolas Brandão</h1>
 
 👨‍💻 Full-stack developer
