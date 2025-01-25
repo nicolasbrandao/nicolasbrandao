@@ -1,11 +1,14 @@
 <h1 align="left">Hi, my name is Nícolas Brandão</h1>
 
-👨‍💻 Full-stack developer
+👨‍💻 Full stack developer
 
 ⚛️ Working primarily with **React**, **Next** & **TypeScript**
 
-🚧 Check out my [portfolio](https://nicolasbrandao.vercel.app/)
+📖 I've been learning CI/CD pipelines and **GO**
 
+🚧 Check out my [website](https://nicolasbrandao.vercel.app/)
+
+👤 I'm also [@nicolasbrandaovs](https://github.com/nicolasbrandaovs/) @ Viewstats
 
 ## 🛠 &nbsp;Tech Stacks
 
