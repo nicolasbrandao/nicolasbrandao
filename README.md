@@ -2,8 +2,6 @@
 
 👨‍💻 Full stack developer
 
-👤 I'm also [@nicolasbrandaovs](https://github.com/nicolasbrandaovs/) @ Viewstats
-
 ⚛️ Working primarily with **React**, **Next** & **TypeScript**
 
 📖 I've been learning CI/CD pipelines and **GO**
