@@ -4,7 +4,7 @@
 
 ⚛️ Working primarily with **React**, **Next** & **TypeScript**
 
-📖 I've been learning CI/CD pipelines and **GO**
+📖 I've been learning CI/CD pipelines
 
 🚧 Check out my [website](https://nicolasbrandao.vercel.app/)
 
