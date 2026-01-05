@@ -2,7 +2,7 @@
 
 👨‍💻 Full stack developer
 
-⚛️ Working primarily with **React**, **Next** & **TypeScript**
+⚛️ Working primarily with **React**, **Next.js**, **NestJS** & **TypeScript**
 
 📖 I've been learning CI/CD pipelines
 
