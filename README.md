@@ -6,8 +6,6 @@
 
 📖 I've been studying to take the AWS Cloud Developer certification exam
 
-🚧 Check out my [website](https://nicolasbrandao.vercel.app/)
-
 ## 🛠 &nbsp;Tech Stacks
 
 ![Next](https://img.shields.io/badge/-Next-05122A?style=flat&logo=next.js)&nbsp;
