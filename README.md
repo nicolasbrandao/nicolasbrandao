@@ -4,7 +4,7 @@
 
 ⚛️ Working primarily with **React**, **Next.js**, **NestJS** & **TypeScript**
 
-📖 I've been learning CI/CD pipelines
+📖 I've been studying to take the AWS Cloud Developer certification exam
 
 🚧 Check out my [website](https://nicolasbrandao.vercel.app/)
 
