@@ -4,7 +4,7 @@
 
 ⚛️ Working primarily with **React**, **Next.js**, **NestJS** & **TypeScript**
 
-📖 I've been studying to take the AWS Cloud Developer certification exam
+📖 I've been studying to take the AWS Certified Developer Associate certification exam
 
 ## 🛠 &nbsp;Tech Stacks
 
